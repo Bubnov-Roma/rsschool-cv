@@ -22,3 +22,21 @@ Hello! My name is Roma Bubnov, I'm a front-end developer from Russia. I enjoy de
 * WebPack
 * Node JS
 * React Native
+
+### Code examples:
+
+```
+ function removeKFromList( l, k ){
+    for (let i = 0; i < l.length; i++) {
+      if(l[i] === k) {
+        l.splice(i, 1);
+      }
+    }
+   return l;
+ }
+```
+
+### Education
+
+* JavaRush : 2019 - 2020
+* RS School : 2022 - present
