@@ -23,7 +23,7 @@ Hello! My name is Roma Bubnov, I'm a front-end developer from Russia. I enjoy de
 * Node JS
 * React Native
 
-### Code examples:
+### Code example:
 
 ```
  function removeKFromList( l, k ){
@@ -40,3 +40,13 @@ Hello! My name is Roma Bubnov, I'm a front-end developer from Russia. I enjoy de
 
 * JavaRush : 2019 - 2020
 * RS School : 2022 - present
+
+### Projects
+
+* [Wildlife](https://rolling-scopes-school.github.io/bubnov-roma-JSFE2021Q1/wildlife/)
+* [Pac-Man](https://rolling-scopes-school.github.io/bubnov-roma-JSFEPRESCHOOL/js30-random-game/)
+
+### English
+
+Elementary
+
